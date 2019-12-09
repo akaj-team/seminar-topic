@@ -3,6 +3,7 @@ title = "AT Android Seminar Topic"
 author = "Akaj-Team"
 theme = "inkblotty"
 paginate = 10
+publishDir = "docs"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en-us"
