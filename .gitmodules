@@ -1,0 +1,3 @@
+[submodule "seminartopic/themes/inkblotty"]
+	path = seminartopic/themes/inkblotty
+	url = https://github.com/tosi29/inkblotty.git
